@@ -16,12 +16,15 @@ Vista Inicial:
 
 ![Ejercicio5_Vista_Inicial](https://github.com/Lenny-noel-de-leon-reyes/Ejercicio5_hospital/assets/158470011/6e8492f9-8a07-4d33-ac3d-682f58591b17)
 
-Proceso:
+
+Momento en el cual se ingresan los datos y se presiona el Boton "Repartir":
 
 ![Ejercicio5_2](https://github.com/Lenny-noel-de-leon-reyes/Ejercicio5_hospital/assets/158470011/3b264090-2331-4c5e-bd51-07b492c7bd0e)
 
-Limpieza de Datos:
+Limpieza de datos con el botón "Limpiar"
 
 ![Ejercicio5_3](https://github.com/Lenny-noel-de-leon-reyes/Ejercicio5_hospital/assets/158470011/73b76a79-9901-4826-a148-e8a5f2e5a542)
+
+Al presionar el boton "Cerrar" se cierra el programa
 
 
