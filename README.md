@@ -22,5 +22,6 @@ Proceso:
 
 Limpieza de Datos:
 
-![Uploading Ejercicio5_3.png…]()
+![Ejercicio5_3](https://github.com/Lenny-noel-de-leon-reyes/Ejercicio5_hospital/assets/158470011/73b76a79-9901-4826-a148-e8a5f2e5a542)
+
 
